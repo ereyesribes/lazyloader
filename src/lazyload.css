@@ -1,0 +1,13 @@
+img.lazy {
+  background-color: #F1F1FA;
+  border: 0 !important;
+  display: block;
+}
+
+@media (max-width: 1200px) {
+  div.lazy-fix-lg {
+    float: left !important;
+    display: block !important;
+    width: 100% !important;
+  }
+}

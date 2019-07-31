@@ -1,0 +1,24 @@
+{
+  "name": "lazyloader",
+  "version": "1.0.0",
+  "description": "Responsive lazy loader.",
+  "main": "src/lazyload.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lazy",
+    "lazyload",
+    "lazyloader"
+  ],
+  "author": "Javier Reyes Ribes",
+  "license": "ISC"
+}
